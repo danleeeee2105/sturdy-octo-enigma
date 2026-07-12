@@ -3,17 +3,8 @@
 ## 1. Thành viên nhóm & Vai trò
 * **Lê Tài Đức Anh** - Nhóm trưởng
 * **Vũ Ngọc Diệp** - Thành viên.
-
 ---
-
-## 2. Hướng dẫn thiết lập ban đầu trên GitHub
-1. **Chọn chủ đề của nhóm:** Đề tài nghiên cứu được chốt là *"Thiết kế cơ sở dữ liệu quản lý thư viện Hà Nội"*.
-2. **Tạo repository trên GitHub:** Trưởng nhóm khởi tạo một kho lưu trữ mới (Public/Private) đặt tên phù hợp (ví dụ: `QuanLyThuVienHaNoi_CSDL`).
-3. **Thêm thành viên vào repository:** Vào mục `Settings` -> `Collaborators` -> Chọn `Add people` và nhập username GitHub hoặc email của thành viên còn lại để cấp quyền đồng sở hữu và đóng góp mã nguồn.
-
----
-
-## 3. Phân tích yêu cầu hệ thống
+## 2. Phân tích yêu cầu hệ thống
 
 ### A. Yêu cầu chức năng
 Hệ thống bao gồm 11 chức năng quản lý trọng tâm sau:
@@ -41,7 +32,7 @@ Hệ thống bao gồm 11 chức năng quản lý trọng tâm sau:
 
 ---
 
-## 4. Mô tả ngắn gọn dự án
+## 3. Mô tả ngắn gọn dự án
 * **Tên dự án:** Hệ thống Quản lý Thư viện Hà Nội.
 * **Mục tiêu dự án:** Hiện đại hóa quy trình quản lý lưu trữ thủ công trước đây; xây dựng một nền tảng dữ liệu khoa học giúp tối ưu hóa quy trình mượn - trả, tra cứu thông tin chính xác và nâng cao văn hóa đọc cho cộng đồng.
 * **Mô tả chức năng chính:** Quản lý dữ liệu thư viện (Sách, Độc giả, Nhân viên, Đối tác); Vận hành cốt lõi nghiệp vụ Mượn - Trả sách; Kiểm soát rủi ro thông qua xử lý vi phạm nợ phạt và kết xuất báo cáo định kỳ.
@@ -49,7 +40,7 @@ Hệ thống bao gồm 11 chức năng quản lý trọng tâm sau:
 
 ---
 
-## 5. Thiết kế Cơ sở Dữ liệu chi tiết
+## 4. Thiết kế Cơ sở Dữ liệu chi tiết
 
 ### A. Danh sách Thực thể, Thuộc tính và Khóa chính
 Hệ thống được thiết kế bao gồm 8 thực thể chính dưới đây:
